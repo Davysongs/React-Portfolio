@@ -26,7 +26,7 @@ const projects = [
     title: "Event planner",
     description:
       "A mobile application for leisure seekers to discover unique events and activities in their city with a few taps",
-    getImageSrc: () => require("../images/photo4.jpg"),
+    getImageSrc: () => require("../images/photo4.png"),
   },
 ];
 
